@@ -9,5 +9,5 @@ Undergrad at CU Boulder, double major in Geography (GIS Concentration) and Atmos
 
 <img 
   src="/img/pfp.jpg" 
-  height="25%"
-  width="25%">
+  height="40%"
+  width="40%">

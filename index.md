@@ -15,4 +15,4 @@ Undergrad at CU Boulder, double major in Geography (GIS Concentration) and Atmos
 ## From My Hometown
 #### Pappajohn Sculpture Park in Des Moines, IA
 
-<iframe src="scuplture_park_interactive.html" width="100%" height="600%" frameborder="0"></iframe>
+<iframe src="sculpture_park_interactive.html" width="100%" height="100%" frameborder="0"></iframe>

@@ -26,7 +26,8 @@ Undergrad at CU Boulder, double major in Geography (GIS Concentration) and Atmos
 
 ### Mean Annual High Temperatures in Des Moines, IA
 The following plot displays the mean daily high temperature in Des Moines for every year from 1946 to 2024 (the full extent of the data, minus incomplete years). Data was collected from the Des Moines International Airport (<https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00014933/detail>).
-<iframe src="des moines temperature plot.html" width="800" height="100%" style="border:none;"></iframe>
+<iframe src="des moines temperature plot.html" width="800" height="250%" style="border:none;"></iframe>
+
 To determine the historical trend of high temperatures in Des Moines, we can perform a **linear OLS regression** on the data, as shown in the following plot:
 ![Linear OLS Plot](img/des moines temp ols.png)
 

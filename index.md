@@ -32,3 +32,15 @@ To determine the historical trend of high temperatures in Des Moines, we can per
 ![Linear OLS Plot](img/des moines temp ols.png)
 
 The OLS regression line gives an average increase in mean annual high temperature of 0.0353 degrees Fahrenheit per year from 1946 to 2024. With a t-statistic of t=3.908, the data strongly suggest that the temperature in Des Moines is increasing on average. This may be evidence of global warming, although the scope of the data is limited to Des Moines.
+
+### Mapping Red-headed Woodpecker (*Melanerpes erythrocephalus*) Migration in 2024
+<iframe src="html/melanerpes_erythrocephalus_migration_2024_interactive.html" 
+        width="100%" height="600px" 
+        style="border:1px solid #ccc;">
+</iframe>
+This interactive map panel illustrates the density of *Melanerpes erythrocephalus* spottings by ecoregion for each month in 2024, color-coded on a logarithmic scale.
+- Regions on the map are derived from [RESOLVE's *Ecoregions of the World* (2017)](https://www.resolve.ngo/projects/ecoregions-world)
+- *Melanerpes erythrocephalus* migration data was downloaded from [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/species/2478130)
+
+The data shown in this panel reveals that *Melanerpes erythrocephalus* occupy the eastern and central parts of the United States, as well as part of southern Canada, year-round. However, much of the northwestern United states and western Canada appear to be occupied by *Melanerpes erythrocephalus* primarily in summer months. The data suggest that some *Melanerpes erythrocephalus* exhibit a seasonal migration pattern in which they migrate northwest in the spring and southeast in the fall. The dry and mountainous topography of the southeastern United States is likely inhospitable to *Melanerpes erythrocephalus* and thus may help explain the migration pattern we see in the panel.
+

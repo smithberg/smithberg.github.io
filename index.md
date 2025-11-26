@@ -50,7 +50,7 @@ The average NDVI in and around the Gila River Indian Community (GRIC) from 2001-
 To examine the impact of the restoration of water rights to the Gila River Indian Community on vegetation health, we can subtract the 2005-2008 average for each NDVI tile by the 2001-2004 average and map the difference:
 <iframe src="gric-ndvi-difference-hvplot.html"
         width="100%"
-        height="600"
+        height="450"
         frameborder="0">
 </iframe>
 The arrayed green circles on this map strongly suggest that center-pivot irrigation was established inside the GRIC following the 2004 settlement. This map suggests that overall vegetation health changed relatively little between the periods 2001-2004 and 2005-2008, with minor fluctuations.
@@ -58,7 +58,7 @@ The arrayed green circles on this map strongly suggest that center-pivot irrigat
 To more directly assess whether restoring water rights to the GRIC led to an increase in vegetation health, we can subtract average july NDVI inside the GRIC by that in the region surrounding it (defined by the GRIC's north, south, east, and west bounds) for each year since 2001, and then graph the difference over time: 
 <iframe src="ndvi-deficit-graph.html"
         width="100%" 
-        height="500" 
+        height="350" 
         frameborder="0" 
         style="border: none;">
 </iframe>

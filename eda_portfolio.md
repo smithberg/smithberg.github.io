@@ -73,5 +73,5 @@ To determine the historical trend of high temperatures in Des Moines, we can per
 The OLS regression line gives an average increase in mean annual high temperature of 0.0353 degrees Fahrenheit per year from 1946 to 2024. With a t-statistic of t=3.908, the data strongly suggest that the temperature in Des Moines is increasing on average. This may be evidence of global warming, although the scope of the data is limited to Des Moines.
 
 ***
-### Map of Pappajohn Sculpture Park in Des Moines, IA
+# Map of Pappajohn Sculpture Park in Des Moines, IA
 <embed type="text/html" src="sculpture_park_interactive.html" width="600" height="600">

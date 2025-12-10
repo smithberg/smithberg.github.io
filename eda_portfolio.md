@@ -1,6 +1,6 @@
-# Earth Data Analytics Portfolio
+# **Earth Data Analytics Portfolio**
 These projects were completed as part of **GEOG 4463: Earth Analytics Data Science Bootcamp**, a course at CU Boulder.
-# **Impact of the 2020 Midwest Derecho on Vegetation Health in Backbone State Park, Iowa**
+# Impact of the 2020 Midwest Derecho on Vegetation Health in Backbone State Park, Iowa
 Backbone State Park, established in 1920 as Iowa's first state park, is a geographically unique and ecologically significant natural preserve [1]. On August 10, 2020, the park and the surrounding Midwest were struck by a powerful and deadly derecho, causing billions in damage and killing 4 people [2]. A *derecho* is a fast-moving band of storms that produce destructive winds and even tornadoes [3]. 
 To assess the ecological impact of such a short and intense storm, me must analyze it using geospatial data. This project utilizes the Normalized Difference Vegetation Index (NDVI), a remotely sensed proxy, to quantify the derecho's impact on vegetation health within the park.
 The aim of this project is to answer the following question: **How did the 2020 Midwest derecho impact vegetation health inside Backbone State Park?**
